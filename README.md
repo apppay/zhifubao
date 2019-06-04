@@ -5,18 +5,17 @@
 <br>
 <br>
 1、这个是用户可以修改金额和备注的截图，<br>
-
+![image](https://github.com/apppay/zhifubao/blob/master/11.png)
 <br>
 <br>
 <br>
 <hr>
-2、这个是用户不可以修改金额和备注的截图，<br>
+1、这个是用户可以修改金额和备注的截图，<br>
 ![image](https://github.com/apppay/zhifubao/blob/master/22.png)
 <br>
 <br>
+<br>
 <hr>
-<br>
-<br>
 3、用户可以修改金额和备注的  ==>  演示demo： http://pay.wsw520.top/fukuanma/
 <br>
 <br>
