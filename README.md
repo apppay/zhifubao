@@ -14,12 +14,13 @@
 ![image](https://github.com/apppay/zhifubao/blob/master/22.png)
 <br>
 <br>
-<br>
-<br>
-<br>
 <hr>
+<br>
+<br>
 3、用户可以修改金额和备注的  ==>  演示demo： http://pay.wsw520.top/fukuanma/
-
+<br>
+<br>
+<br>
 //这是实现最核心的代码部分
 <br>
 alipays://platformapi/startapp?appId=09999988&actionType=toAccount&goBack=NO&amount=金额&userId=2088432847585316&memo=这是可修改备注
