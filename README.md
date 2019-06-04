@@ -13,7 +13,7 @@
 <hr>
 1、这个是用户可以修改金额和备注的截图，
 <br>
-![image](https://github.com/apppay/zhifubao/blob/master/22.png)
+![image](https://github.com/apppay/zhifubao/blob/master/22.png?raw=true)
 <br>
 <br>
 <br>
