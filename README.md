@@ -9,7 +9,7 @@
 <br>
 <br>
 <br>
-<br>
+<hr>
 2、这个是用户不可以修改金额和备注的截图，<br>
 ![image](https://github.com/apppay/zhifubao/blob/master/22.png)
 <br>
@@ -17,7 +17,7 @@
 <br>
 <br>
 <br>
-<br>
+<hr>
 3、用户可以修改金额和备注的  ==>  演示demo： http://pay.wsw520.top/fukuanma/
 
 //这是实现最核心的代码部分
@@ -26,9 +26,10 @@ alipays://platformapi/startapp?appId=09999988&actionType=toAccount&goBack=NO&amo
 <br>
 <br>
 <br>
-4、用户不可以修改金额和备注的demo只提供付费赞助分享    http://pay.wsw520.top
+4、用户不可以修改金额和备注的demo，只提供付费赞助分享： http://pay.wsw520.top
 <br>
 <br>
 <br>
 <br>
 <br>
+如有疑问可联系：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=754219009&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:754219009:51" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
