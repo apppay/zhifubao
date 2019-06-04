@@ -9,11 +9,15 @@
 ![image](https://github.com/apppay/zhifubao/blob/master/11.png)
 
 <hr>
+
 1、这个是用户可以修改金额和备注的截图，
 
-![image](https://github.com/apppay/pay/blob/master/pay1.jpg)
+![image](https://github.com/apppay/zhifubao/blob/master/22.png)
 
 <hr>
+
+
+
 3、用户可以修改金额和备注的  ==>  演示demo： http://pay.wsw520.top/fukuanma/
 
 
