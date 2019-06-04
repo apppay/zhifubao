@@ -1,14 +1,15 @@
 # 
 支付宝个人收款二维码生成，支付宝生成自定义收款码金额，生成不可修改备注信息,
-<br/>
-<br/>
-<br/>
-<br/>
+
+
+
 1、这个是用户可以修改金额和备注的截图，
 ![image](https://github.com/apppay/zhifubao/blob/master/11.png)
-<br/>
+
+
 <hr/>
-<br/>
+
+
 1、这个是用户不可以修改金额和备注的截图，
 ![image](https://github.com/apppay/zhifubao/blob/master/22.png)
 
