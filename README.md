@@ -11,8 +11,7 @@
 <br>
 <hr>
 2、这个是用户不可以修改金额和备注的截图，<br>
-![image](https://github.com/apppay/zhifubao/blob/master/22.png)
-
+![image](https://github.com/apppay/zhifubao/blob/master/11.png)
 <br>
 <br>
 <hr>
