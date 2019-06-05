@@ -19,7 +19,7 @@
 <hr/>
 <br/>
 <br/>
-3、用户可以修改金额和备注的  ==>  演示demo： http://pay.wsw520.top/fukuanma/
+3、用户可以修改金额和备注的  ==>  演示demo： http://apppay.xyz/fukuanma/
 <br/>
 <br/>
 <br/>
@@ -29,7 +29,7 @@ alipays://platformapi/startapp?appId=09999988&actionType=toAccount&goBack=NO&amo
 <br/>
 <br/>
 <br/>
-4、用户不可以修改金额和备注的demo，只提供付费赞助分享： http://pay.wsw520.top
+4、用户不可以修改金额和备注的demo，只提供付费赞助分享： http://apppay.xyz/pay1/
 <br/>
 <br/>
 <br/>
