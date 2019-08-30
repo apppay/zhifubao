@@ -29,15 +29,15 @@
 <br/>
 <br/>
 //这是实现最核心的代码部分<br>
+void main()
+{
 alipays://platformapi/startapp?appId=09999988&actionType=toAccount&goBack=NO&amount=金额&userId=2088832887686316&memo=这是可修改备注
+}
 <br/>
 <br/>
 <br/>
 <br/>
 4、用户不可以修改金额和备注的demo，只提供付费赞助分享： http://apppay.xyz/pay1/
-<br/>
-<br/>
-<br/>
 <br/>
 如有疑问可联系：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=754219009&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:754219009:51" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
 <br>
