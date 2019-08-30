@@ -11,16 +11,17 @@
 ![image](https://github.com/apppay/zhifubao/blob/master/11.png)
 <br/>
 <br/>
-<hr/>
 <br/>
 <br/>
+<br/>
+
 2、这个是用户不可以修改金额和备注的截图
 -
 
 ![image](https://github.com/apppay/zhifubao/blob/master/22.png)
 <br/>
 <br/>
-<hr/>
+<br/>
 <br/>
 <br/>
 3、用户可以修改金额和备注的  ==>  演示demo： http://apppay.xyz/fukuanma/
