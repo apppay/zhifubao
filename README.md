@@ -25,7 +25,7 @@
 <br/>
 <br/>
 //这是实现最核心的代码部分<br>
-alipays://platformapi/startapp?appId=09999988&actionType=toAccount&goBack=NO&amount=金额&userId=2088832887686316&memo=这是可修改备注
+alipays://platformapi/startapp?appId=09999988&actionType=toAccount&goBack=NO&amount=金额&userId=208888887686316&memo=这是可修改备注
 <br/>
 <br/>
 <br/>
