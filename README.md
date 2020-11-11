@@ -4,7 +4,7 @@
 <br/>
 1、这个是用户可以修改金额和备注的截图，
 
-![image](http://apppay.xyz.com/index/githubimg/zhifubao/11.png)
+![image](https://i.loli.net/2020/11/11/nhIt9MVuf7X2EkA.png)
 <br/>
 <br/>
 <hr/>
@@ -12,7 +12,7 @@
 <br/>
 1、这个是用户不可以修改金额和备注的截图，
 
-![image](http://apppay.xyz.com/index/githubimg/zhifubao/22.png)
+![image](https://i.loli.net/2020/11/11/OSH6oFJtpb18Kwf.png)
 <br/>
 <br/>
 <hr/>
@@ -37,7 +37,6 @@
 --
 <a target="_blank" href="https://github.com/apppay/qdpay">支付宝小钱袋h5</a><br/>
 <a target="_blank" href="#">支付宝花呗代还</a><br/>
-<a target="_blank" href="https://github.com/apppay/dfpay">淘宝代付</a><br/>
 <a target="_blank" href="https://github.com/apppay/payai">支付宝普通红包</a><br/>
 <a target="_blank" href="#">支付宝口令红包</a><br/>
 <a target="_blank" href="https://github.com/apppay/copyzfb">支付宝复制账号转账</a><br/>
